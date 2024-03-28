@@ -53,7 +53,7 @@
     "eslint-plugin-react": "^7.33.2",
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
-    "wireit": "^0.10.0"
+    "wireit": "^0.14.4"
   },
   "wireit": {
     "build": {
