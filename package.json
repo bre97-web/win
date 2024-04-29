@@ -34,7 +34,7 @@
     "@vitejs/plugin-react-swc": "^3.4.0",
     "autoprefixer": "^10.4.15",
     "lit": "^3.0.0",
-    "material-symbols": "^0.10.4",
+    "material-symbols": "^0.17.3",
     "mobx-react": "^9.0.1",
     "moment": "^2.29.4",
     "postcss": "^8.4.27",
